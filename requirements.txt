@@ -1,0 +1,10 @@
+chromadb
+numpy
+pypdf
+sentence-transformers
+scikit-learn
+openai
+fastapi
+uvicorn
+pydantic
+ollama

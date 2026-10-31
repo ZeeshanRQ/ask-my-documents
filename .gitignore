@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Vector store data
+chroma_db/
+Chroma_db/
+.chroma_db/
+*.sqlite3
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
